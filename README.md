@@ -18,7 +18,7 @@
   
   ![Nihal's Github Stats](https://github-readme-stats.vercel.app/api?username=nrd26&show_icons=true&theme=algolia)
 
-<br>
+
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nrd26&theme=juicyfresh&no-bg=true)
 
