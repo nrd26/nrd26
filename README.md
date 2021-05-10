@@ -15,7 +15,7 @@
 
 <br>
   
-![Nihal's Github Stats](https://github-readme-stats.vercel.app/api?username=nrd26&show_icons=true&theme=algolia)
+![Nihal's Github Stats](https://github-readme-stats.vercel.app/api?username=nrd26&show_icons=true&theme=dark)
 
 
 <!--- <br>
