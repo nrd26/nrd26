@@ -11,14 +11,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I learnt how to speak Japanese just by watching anime :)
 - 💻 Want to learn more about me? Check out my website: https://www.nihaldias.codes
+- Feel free to also connect with me on ![Twitter](https://twitter.com/nekosenpai2601) and ![LinkedIn](https://www.linkedin.com/in/nihal-dias-913b8818b)
 - 📕 While you're at it, check out my blog too: https://nihaldias.medium.com
 
 ![Nihal's Github Stats](https://github-readme-stats.vercel.app/api?username=nrd26&show_icons=true&theme=algolia)
 
-### 🤝🏻Connect with Me
-<p align="center">
-
-<a href="https://www.linkedin.com/in/nihal-dias-913b8818b"><img src="https://img.shields.io/badge/-Nihal%20Rian%20Dias-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
-<a href="https://twitter.com/nekosenpai2601"><img src="https://img.shields.io/badge/-@nekosenpai2601__-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nrd26&theme=juicyfresh&no-bg=true)
