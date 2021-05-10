@@ -50,7 +50,8 @@ Here are some ideas to get you started:
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-
+![Nihal's Github Stats](https://github-readme-stats.vercel.app/api?username=nrd26&show_icons=true&theme=vue-dark)
+![Nihal's top programming languages](https://github-readme-stats.vercel.app/api/toplangs/?username=nrd26&show_icons=true&theme=vue-dark)
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nrd26&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
