@@ -20,5 +20,5 @@
 
 <br>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nrd26&theme=juicyfresh)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nrd26&theme=juicyfresh&no-bg=true)
 
