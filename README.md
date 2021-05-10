@@ -20,5 +20,5 @@
 
 <a href="https://www.linkedin.com/in/nihal-dias-913b8818b"><img src="https://img.shields.io/badge/-Nihal%20Rian%20Dias-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
-<a href="https://twitter.com/nekosenpai2601"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Twitter&logoColor=black"/></a>
+<a href="https://twitter.com/nekosenpai2601"><img src="https://img.shields.io/badge/-@nekosenpai2601__-000000?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
