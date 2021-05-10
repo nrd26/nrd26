@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Nihal!
 
 
-**nrd26/nrd26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## ✨ About Me ✨
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,8 +9,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I learnt how to speak Japanese just by watching anime :)
 
 
 
@@ -49,15 +47,9 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-### ⚙️ &nbsp;GitHub Analytics
-![Nihal's Github Stats](https://github-readme-stats.vercel.app/api?username=nrd26&show_icons=true&theme=vue-dark)
-![Nihal's top programming languages](https://github-readme-stats.vercel.app/api/toplangs/?username=nrd26&show_icons=true&theme=vue-dark)
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nrd26&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nrd26&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+![Nihal's Github Stats](https://github-readme-stats.vercel.app/api?username=nrd26&show_icons=true&theme=algolia)
+![Nihal's top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nrd26&show_icons=true&theme=algolia)
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
