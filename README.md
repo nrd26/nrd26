@@ -12,10 +12,14 @@
 - ⚡ Fun fact: I learnt how to speak Japanese just by watching anime :)
 - 💻 Want to learn more about me? Check out my website: https://www.nihaldias.codes
 - 📕 While you're at it, check out my blog too: https://nihaldias.medium.com
-<br>
 
-![Nihal's Github Stats](https://github-readme-stats.vercel.app/api?username=nrd26&show_icons=true&theme=algolia)
+<p align ="center">
+<br>
+  
+  ![Nihal's Github Stats](https://github-readme-stats.vercel.app/api?username=nrd26&show_icons=true&theme=algolia)
 
 <br>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nrd26&theme=juicyfresh&no-bg=true)
+
+</p>
