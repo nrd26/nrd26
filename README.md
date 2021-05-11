@@ -24,7 +24,7 @@
 </a>
 
 <br><br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github-profile-trophy.vercel.app/?username=nrd26&theme=juicyfresh&no-bg=true">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=nrd26&theme=juicyfresh&no-bg=true" />
 </a>     
