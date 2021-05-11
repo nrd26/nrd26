@@ -20,7 +20,7 @@
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nrd26&layout=compact&theme=algolia&hide=c#,hlsl,shaderlab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrd26&layout=compact&theme=algolia&hide=c#,hlsl,shaderlab,makefile" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrd26&layout=compact&theme=algolia&hide=c#,hlsl,shaderlab,Makefile" />
 </a>
 
 <!--- <br><br><br>
