@@ -14,9 +14,13 @@
 - 📕 While you're at it, check out my blog too: https://nihaldias.medium.com
 
 <br>
-  
-![Nihal's Github Stats](https://github-readme-stats.vercel.app/api?username=nrd26&show_icons=true&theme=algolia)
 
+<a href="https://github-readme-stats.vercel.app/api?username=nrd26&show_icons=true&theme=algolia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nrd26&show_icons=true&theme=algolia" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nrd26&layout=compact&theme=algolia&hide=c#,hlsl,shaderlab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrd26&layout=compact&theme=algolia&hide=c#,hlsl,shaderlab" />
+</a>
 
 <!--- <br>
       ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nrd26&theme=juicyfresh&no-bg=true) --->
