@@ -23,7 +23,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrd26&layout=compact&theme=algolia&hide=c#,hlsl,shaderlab" />
 </a>
 
-<br>
+<br><br><br><br><br><br>
 <a href="https://github-profile-trophy.vercel.app/?username=nrd26&theme=juicyfresh&no-bg=true">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=nrd26&theme=juicyfresh&no-bg=true" />
 </a>     
