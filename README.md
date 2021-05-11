@@ -18,7 +18,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=nrd26&show_icons=true&theme=algolia">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nrd26&show_icons=true&theme=algolia" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nrd26&layout=compact&theme=algolia&hide=c#,hlsl,shaderlab">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrd26&layout=compact&theme=algolia&hide=c#,hlsl,shaderlab" />
 </a>
