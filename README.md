@@ -23,8 +23,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrd26&count_private=true&layout=compact&theme=chartreuse-dark" />
 </a>
 
-- <br><br><br>
+<!-- - <br><br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github-profile-trophy.vercel.app/?username=nrd26&theme=juicyfresh&no-bg=true">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=nrd26&theme=juicyfresh&no-bg=true" />
-</a>     -
+</a>     - -->
