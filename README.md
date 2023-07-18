@@ -4,7 +4,7 @@
 ## ✨ About Me ✨
 
 - 🔭 I’m currently working on the development of cutting-edge last-mile mapping solutions.
-- 👯 I love collaborating on projects where I can not only leverage my Machine Learning and Software Development skills to build intelligent and accessible software solutions in the form of websites and mobile apps but also learn something new and exciting.
+- 👯 I thrive on engaging projects that allow me to harness my knowledge in building intelligent and user-friendly software solutions, spanning web and mobile applications.
 - 🌱 Presently, I'm learning about Spatial Anchors in Azure
 - ✍️ In addition to my technical pursuits, I channel my creativity through songwriting, crafting captivating fiction pieces, and sharing insightful tech articles. Furthermore, I have a knack for teaching and imparting knowledge, offering piano lessons to eager learners.
 - 📫 How to reach me: nihaldias261@gmail.com
