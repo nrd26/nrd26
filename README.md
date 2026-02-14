@@ -9,7 +9,7 @@
 - ✍️ In addition to my technical pursuits, I channel my creativity through songwriting, crafting captivating fiction pieces, and sharing insightful tech articles. Furthermore, I have a knack for teaching and imparting knowledge, offering piano lessons to eager learners.
 - 📫 How to reach me: nihaldias261@gmail.com
 - ⚡ Fun fact: I learnt how to speak Japanese just by watching anime :)
-- 💻 Want to learn more about me? Check out my website: https://diasnihal.netlify.app
+- 💻 Want to learn more about me? Check out my website: https://nihaldias.vercel.app
 - 📕 While you're at it, check out my blog too: https://nihaldias.medium.com
 
 <br>
@@ -22,8 +22,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrd26&count_private=true&layout=compact&theme=chartreuse-dark" />
 </a>
 
-<!-- - <br><br><br>
+ <br><br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github-profile-trophy.vercel.app/?username=nrd26&theme=juicyfresh&no-bg=true">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=nrd26&theme=juicyfresh&no-bg=true" />
-</a>     - -->
+</a>     
