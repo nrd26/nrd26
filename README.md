@@ -20,8 +20,4 @@
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nrd26&layout=compact&theme=algolia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrd26&count_private=true&layout=compact&theme=chartreuse-dark" />
-</a>
-
-<a href="https://github-profile-trophy.vercel.app/?username=nrd26&theme=juicyfresh&no-bg=true">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=nrd26&theme=juicyfresh&no-bg=true" />
-</a>     
+</a>    
